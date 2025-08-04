@@ -72,6 +72,7 @@ app:
   # service is unable to detect the Java runtime, it defaults to Java 17.
   #java: 17
   
+  
   # Set the name of the custom domain for the application.
   #host: my_custom_domain.io
 
