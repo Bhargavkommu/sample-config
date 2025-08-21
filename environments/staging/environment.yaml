@@ -65,6 +65,7 @@ app:
   # is only available on an internal endpoint accessible to other applications
   # within a subscription.
   endpoints: public
+  
   services:
     - servicename: com.amazonaws.vpce.us-east-1.vpce-svc-01f2a3b6a731f382b
 
