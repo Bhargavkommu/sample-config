@@ -10,7 +10,6 @@
     <featureManager>
       <feature>springBoot-3.0</feature>
 	    <feature>servlet-6.0</feature>
-      <feature>springBoot-3.0</feature>
     </featureManager>
 </server>
 
