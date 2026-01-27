@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    IBM Confidential
+    PID 5900-AX1
+    Copyright IBM Corp. 2023, 2024
+ -->
+
+<server description="IBM Enterprise Application Service for Java">
+    <featureManager>
+      <feature>springBoot-3.0</feature>
+	    <feature>servlet-6.0</feature>
+      <feature>springBoot-3.0</feature>
+    </featureManager>
+</server>
 
