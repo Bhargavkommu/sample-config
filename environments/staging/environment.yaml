@@ -15,6 +15,8 @@ app:
     artifactId: ferret
     version: 1.2
     type: war
+    validation:
+      enabled: false
 
   # Set minimum and maximum number of instances of the application. 
   # If the minimum and maximum values are different, the service scales the
